@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Torriah &#8211; Wishavura Motors</title>
+	<atom:link href="https://vic-torriah.github.io/wish/author/torriah/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vic-torriah.github.io/wish</link>
+	<description>Command the streets with confidence on our top-of-the-line motorcycles.</description>
+	<lastBuildDate>Tue, 27 Jun 2023 10:56:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>new</title>
+		<link>https://vic-torriah.github.io/wish/2023/06/23/hello-world/</link>
+					<comments>https://vic-torriah.github.io/wish/2023/06/23/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Torriah]]></dc:creator>
+		<pubDate>Fri, 23 Jun 2023 10:06:26 +0000</pubDate>
+				<category><![CDATA[LATEST]]></category>
+		<guid isPermaLink="false">https://vic-torriah.github.io/wish/?p=1</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-cover" style="min-height:1084px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img decoding="async" width="1078" height="1359" class="wp-block-cover__image-background wp-image-13" alt="" src="https://vic-torriah.github.io/wish/wp-content/uploads/2023/06/Biker-Girl.jpg" style="object-position:44% 68%" data-object-fit="cover" data-object-position="44% 68%"/><div class="wp-block-cover__inner-container">
+<p class="has-text-color" style="color:#28b000">Wishavura Motors has emerged as a leading name in the motorcycle industry, offering an extensive collection of motorcycles for enthusiasts across various categories. From cruisers to sports bikes, off-road machines to touring models, Wishavura Motors has built a reputation for delivering high-quality motorcycles that cater to the diverse preferences of riders.</p>
+
+
+
+<p class="has-light-green-cyan-color has-text-color">Company History: </p>
+
+
+
+<p class="has-text-color" style="color:#28b000">Founded in 2025 by motorcycle enthusiast Victoria, Wishavura Motors started as a small shop dedicated to repairing and customizing motorcycles. Victoria&#8217;s passion for motorcycles and his commitment to delivering exceptional customer service helped the business flourish. In 2030, Wishavura Motors took a significant leap by transitioning into a full-fledged dealership, offering both new and pre-owned motorcycles.</p>
+
+
+
+<p class="has-text-color" style="color:#28b000">The company quickly gained a loyal customer base due to its dedication to quality, reliability, and innovative designs. Wishavura Motors also fostered strong relationships with motorcycle manufacturers worldwide, ensuring access to the latest models and technology for its customers.</p>
+
+
+
+<p class="has-light-green-cyan-color has-text-color">Recent Operations: </p>
+
+
+
+<p class="has-text-color" style="color:#28b000">Over the past few years, Wishavura Motors has expanded its operations significantly, both in terms of product offerings and geographical reach. The company has made strategic investments in research and development to enhance its motorcycle lineup while focusing on customer-centric innovations.</p>
+
+
+
+<p class="has-text-color" style="color:#28b000">Wishavura Motors has evolved from a small repair shop to a prominent motorcycle dealership with a wide range of offerings. The company&#8217;s commitment to quality, innovation, and customer satisfaction has propelled its success in the industry. Whether riders seek the thrill of a sports bike, the comfort of a cruiser, or the adventure of an off-road machine, Wishavura Motors stands ready to cater to their needs. With an unwavering dedication to providing exceptional motorcycles, Wishavura Motors continues to make its mark in the world of two-wheeled transportation.</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vic-torriah.github.io/wish/2023/06/23/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
